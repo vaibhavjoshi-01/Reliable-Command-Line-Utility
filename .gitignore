@@ -1,0 +1,10 @@
+build/
+cmake-build-*/
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.tmp
+.DS_Store
+.vscode/

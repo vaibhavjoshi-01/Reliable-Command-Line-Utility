@@ -1,0 +1,6 @@
+id,title,author,category,publicationYear,borrowed,borrower,borrowDate,returnDate
+"BK001","The C++ Programming Language","Bjarne Stroustrup","Technology",2013,0,"","",""
+"BK002","Clean Code","Robert C. Martin","Software",2008,0,"","",""
+"BK003","The Hobbit","J. R. R. Tolkien","Fantasy",1937,0,"","",""
+"BK004","A Brief History of Time","Stephen Hawking","Science",1988,0,"","",""
+"BK005","Pride and Prejudice","Jane Austen","Classic",1813,0,"","",""
